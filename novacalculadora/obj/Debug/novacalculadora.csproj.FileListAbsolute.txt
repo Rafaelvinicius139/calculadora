@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\bin\Debug\novacalculadora.exe.config
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\bin\Debug\novacalculadora.exe
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\bin\Debug\novacalculadora.pdb
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\obj\Debug\novacalculadora.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\obj\Debug\novacalculadora.Form1.resources
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\obj\Debug\novacalculadora.Novo.resources
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\obj\Debug\novacalculadora.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\obj\Debug\novacalculadora.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\obj\Debug\novacalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\obj\Debug\novacalculadora.exe
+C:\Users\Lenovo\source\repos\novacalculadora\novacalculadora\obj\Debug\novacalculadora.pdb
